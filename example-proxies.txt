@@ -1,0 +1,8 @@
+# Sample proxy list for batch testing
+# Format: host:port (one per line)
+
+203.0.113.10:1080
+203.0.113.20:1080
+proxy1.example.com:1080
+proxy2.example.com:1080
+198.51.100.50:9050
